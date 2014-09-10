@@ -55,9 +55,16 @@
   $colorPerformance: #7b5294 !default;
   $colorPerformanceSecondary: lighten($colorPerformance, 30%) !default;
 
+  //Router Keygen Colors
+  $rkLightGray: #c8c8c8;
+  $rkDarkGray: #4d4d4d;
+  $rkBlue: #214478;
+  $lightGray: #dfdfdf;
+  $veryLightGray: #f3f3f3;
+
   // Defining font family
   $fontDefault: Helvetica, Arial, sans-serif !default;
-  $fontHighlight: 'Roboto Condensed', Helvetica, sans-serif !default;
+  $fontHighlight: Gotham, 'Helvetica Neue', Helvetica, sans-serif !default;
   $fontIcon: 'icons' !default;
 
   // Defining font sizes
